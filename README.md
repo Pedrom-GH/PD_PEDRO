@@ -11,3 +11,6 @@ Aquí publico las prácticas de la asignatura de Procesadores Digitales.
 - [Práctica 3.2](https://github.com/Pedrom-GH/Practica_3_2)
 - [Práctica 3.3 - Bluetooth](https://github.com/Pedrom-GH/Practica3_bluetooth-)
 - [Práctica 4.1](https://github.com/Pedrom-GH/P4_ej1/tree/main) 
+- [Práctica 4.2](https://github.com/Pedrom-GH/Practica4_ej2)
+- [Práctica 4.3](https://github.com/Pedrom-GH/Practica4_ej3)
+- [Práctica 4.4](https://github.com/Pedrom-GH/Practica4_Juego_Web)
