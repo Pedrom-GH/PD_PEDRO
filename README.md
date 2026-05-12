@@ -17,3 +17,4 @@ Aquí publico las prácticas de la asignatura de Procesadores Digitales.
 - [P5_Escaner_L2C](https://github.com/Pedrom-GH/P5_Escaner_L2C)
 - [P5_b](https://github.com/Pedrom-GH/P5_b)
 - [P5_c](https://github.com/Pedrom-GH/P5_c)
+- [P6_a](https://github.com/Pedrom-GH/P6_A)
