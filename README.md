@@ -19,4 +19,5 @@ Aquí publico las prácticas de la asignatura de Procesadores Digitales.
 - [P5_c](https://github.com/Pedrom-GH/P5_c)
 - [P6_a](https://github.com/Pedrom-GH/P6_A)
 - [P6_b](https://github.com/Pedrom-GH/P6_b)
+- [P6_c](https://github.com/Pedrom-GH/P6_c)
   
